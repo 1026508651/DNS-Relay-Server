@@ -62,15 +62,14 @@
 #### Usage
 
 ​		DNS_C <options> <filename/serverIp>
-
-​	    Options : 
-​			    -?, --help : print this
-​			    -d, --debug <debugMask#>: debug mask:0-ordinary, 1-basic,2-detail
-​			    -f, --filename <filename>  : using assigned file as DNS relay file
-​			    -i, --ipAddress <ip> : using assigned ip server as remote DNS server
-​			"i.e.
-​			    DNS_C -d 1 -f dnsrelay.txt
-​			    DNS_C -d 0 -i 192.168.1.1
+Options : 
+			   -?, --help : print this
+			   -d, --debug <debugMask#>: debug mask:0-ordinary, 1-basic,2-detail
+			   -f, --filename <filename>  : using assigned file as DNS relay file
+			   -i, --ipAddress <ip> : using assigned ip server as remote DNS server
+			"i.e.
+			    DNS_C -d 1 -f dnsrelay.txt
+			    DNS_C -d 0 -i 192.168.1.1
 
 #### Reference
 
