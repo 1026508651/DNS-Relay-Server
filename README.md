@@ -32,31 +32,19 @@
 
 #### Structure
 
-     ├── README.md
-
-	   ├── DNS_C.c //main file
-
-	   ├── DNS_C.rc//resource file
-
-  	 ├── DNS_C.vcxproj //project file
-
-	   ├── DNS_C.vcxprk.filters //project file
-
-     ├── DNS_C.vcxproj.user//project file
-
-	   ├── DNSrelay.txt //local domain name table
-
-		 ├──getopt.c//Linux getopt.c Lib
-
-     ├──getopt.c//header of Linux getopt.c Lib
-
-     ├──lprintf.c//a lib function to print the debug information with time coordination
-
-		 ├──lprintf.c//header of lprintf.c, including lprintf and v_lprintf
-
-     ├──Debug// generation files from VS2017 debug type
-
-  	 ├──Release// generation files from VS2017 release type
+├── README.md
+├── DNS_C.c //main file
+├── DNS_C.rc//resource file
+├── DNS_C.vcxproj //project file
+├── DNS_C.vcxprk.filters //project file
+├── DNS_C.vcxproj.user//project file
+├── DNSrelay.txt //local domain name table
+├──getopt.c//Linux getopt.c Lib
+├──getopt.c//header of Linux getopt.c Lib
+├──lprintf.c//a lib function to print the debug information with time coordination
+├──lprintf.c//header of lprintf.c, including lprintf and v_lprintf
+├──Debug// generation files from VS2017 debug type
+├──Release// generation files from VS2017 release type
 
 #### Usage
 
