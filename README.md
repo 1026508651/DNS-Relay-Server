@@ -61,7 +61,8 @@
 
 #### Usage
 
-​		DNS_C <options> <filename/serverIp>
+		DNS_C <options> <filename/serverIp>
+		
 Options : 
 			   -?, --help : print this
 	
