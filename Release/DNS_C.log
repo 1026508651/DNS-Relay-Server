@@ -1,0 +1,26 @@
+﻿  DNS_C.c
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(76): warning C4133: “=”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(80): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(80): warning C4133: “函数”: 从“char [15]”到“LPCWSTR”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(135): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+  c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(135): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(137): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(137): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(137): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(137): note: 此参数用作缓冲区大小
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(114): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(213): note: 参见“fopen”的声明
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(139): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(1199): note: 参见“fscanf”的声明
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(259): warning C4133: “函数”: 从“SOCKADDR_IN *”到“sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(339): warning C4133: “函数”: 从“SOCKADDR_IN *”到“const sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(420): warning C4133: “函数”: 从“SOCKADDR_IN *”到“const sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(437): warning C4133: “函数”: 从“SOCKADDR_IN *”到“const sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(477): warning C4133: “函数”: 从“SOCKADDR_IN *”到“const sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(318): warning C4101: “length”: 未引用的局部变量
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(371): warning C4101: “total”: 未引用的局部变量
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(568): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(572): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(539): warning C4101: “i”: 未引用的局部变量
+  getopt.c
+  lprintf.c

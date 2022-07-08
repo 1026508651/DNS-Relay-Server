@@ -1,0 +1,18 @@
+﻿  DNS_C.c
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(276): warning C4133: “=”: 从“char *”到“LPCWSTR”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(279): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(279): warning C4133: “函数”: 从“char [15]”到“LPCWSTR”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(335): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+  c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(335): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(337): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(337): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(337): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(337): note: 此参数用作缓冲区大小
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(534): warning C4133: “函数”: 从“SOCKADDR_IN *”到“const sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(608): warning C4133: “函数”: 从“SOCKADDR_IN *”到“const sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(620): warning C4133: “函数”: 从“SOCKADDR_IN *”到“const sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(661): warning C4133: “函数”: 从“SOCKADDR_IN *”到“const sockaddr *”的类型不兼容
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(512): warning C4101: “length”: 未引用的局部变量
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(559): warning C4101: “total”: 未引用的局部变量
+c:\users\hp\desktop\计算机网络课程设计2022\dns_c2\dns_c\dns_c\dns_c.c(734): warning C4101: “i”: 未引用的局部变量
+  DNS_C.vcxproj -> C:\Users\hp\Desktop\计算机网络课程设计2022\DNS_C2\DNS_C\Debug\DNS_C.exe
