@@ -1,7 +1,5 @@
 # DNS-Relay-Server
 
-## BUPT 2022 Computer Network Course Design
-
 ### @ZXHE
 
 #### Introduction
